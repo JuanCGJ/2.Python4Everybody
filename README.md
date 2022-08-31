@@ -1,1 +1,1 @@
-# Python4Everybody-Course-2
+# Python4Everybody Course2: Data Structures
