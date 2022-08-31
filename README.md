@@ -1,4 +1,4 @@
-#Course2: Data Structures
+# Course2: Data Structures
 
 Coursera Specialized Course - Python4everybody. Course 2: Data Structures
 
